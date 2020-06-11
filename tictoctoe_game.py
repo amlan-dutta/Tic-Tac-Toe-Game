@@ -106,3 +106,5 @@ if __name__=='__main__':
             t=False
     os.system('cls')
     print("\t\tThank you for using our game!!!")
+    print("\t\tGame is made by Amlan Dutta")
+    input()
